@@ -1,0 +1,35 @@
+
+body {
+background-image: url("https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg?cs=srgb&dl=pexels-james-wheeler-414612.jpg&fm=jpg");
+
+background-repeat: no-repeat;
+
+}
+
+
+body {
+
+    overflow-x: hidden;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    justify-content: center;
+    background-size: 100%;
+
+   
+}
+
+.wel{
+font-weight: bold;
+color: white;
+padding-bottom: 60px;
+font-size: 60px;
+}
+
+.not{
+    font-weight: bold;
+    color: white;
+    padding-bottom: 10px;
+    font-size: 40px;
+}
+
